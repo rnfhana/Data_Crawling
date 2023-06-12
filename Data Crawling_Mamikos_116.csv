@@ -1,0 +1,401 @@
+Tipe Kost;Kamar Tersedia;Nama Kost;Lokasi;Fasilitas;Harga Asli;Diskon;Harga /bulan
+Putra;Sisa 2 kamar;Kost Singgahsini Tenggilis Mejoyo KH 14 Tipe A Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ;1200000;0,05;1140000
+Putri;Sisa 2 kamar;Kost Singgahsini Rumah Soerya Tipe A Semolowaru Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;1300000;0,1;1170000
+Putra;Sisa 2 kamar;Kost Singgahsini Tumapel 95 Tipe A Tegalsari Surabaya;Tegalsari;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;2000000;0,07;1860000
+Campur;;Kost Apik Ubaya KH 12 Tipe B Rungkut Surabaya;Kecamatan Rungkut;WiFi ·Kloset Duduk ·Kasur ;850000;0,1;765000
+Campur;Sisa 2 kamar;Kost Singgahsini Demsey Tipe A Margorejo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;2500000;0,07;2325000
+Putri;Sisa 1 kamar;Kost Apik Klampis Aji II Tipe C Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kloset Duduk ·Kasur ;850000;0,05;807500
+Putri;;Kost Apik Klampis Aji II Tipe B Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;1550000;0,03;1503500
+Putri;Sisa 1 kamar;Kost Apik Klampis Aji II Tipe A Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;1700000;0,05;1615000
+Putri;Sisa 1 kamar;Kost Singgahsini Rumah Soerya Tipe B Semolowaru Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;1500000;0,07;1395000
+Campur;;Kost Singgahsini Rock Tipe A Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;3190127;0,1;2871114
+Campur;Sisa 1 kamar;Kost Apik Ubaya KH 12 Tipe A Rungkut Surabaya;Kecamatan Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ;1312000;0,05;1246400
+Putra;;Kost Apik UBAYA Si Mbok Tipe A Rungkut Surabaya;Kecamatan Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;1650000;0,1;1485000
+Putra;Sisa 1 kamar;Kost Apik UBAYA Si Mbok Tipe B Rungkut Surabaya;Kecamatan Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;2370000;0,1;2133000
+Putra;Sisa 1 kamar;Kost Singgahsini Tumapel 95 Tipe D Tegalsari Surabaya;Tegalsari;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;1400000;0,03;1358000
+Putri;;Kost Apik Mitra Jaya Bratang Tipe A Wonokromo Surabaya;Kecamatan Wonokromo;WiFi ·Kasur ·Akses 24 Jam ;850000;0,1;765000
+Campur;;Kost Apik UBAYA 72 Tipe B Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;1877000;0,1;1689300
+Campur;Sisa 1 kamar;Kost Apik UBAYA 72 Tipe A Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;2000000;0,1;1800000
+Putra;Sisa 2 kamar;Kost Singgahsini Tumapel 95 Tipe B Tegalsari Surabaya;Tegalsari;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;2300000;0,1;2070000
+Putri;Sisa 1 kamar;Kost Singgahsini Rumah Soerya Tipe C Semolowaru Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2000000
+Putri;;Kost Apik Mitra Jaya Bratang Tipe B Wonokromo Surabaya;Wonokromo;WiFi ·Kasur ·Akses 24 Jam ;;;750000
+Putri;Sisa 2 kamar;Kost Apik Lily II Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1054500
+Putri;Sisa 4 kamar;Kost Apik Lily II Tipe C Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;860000
+Putri;Sisa 3 kamar;Kost Apik Lily II Tipe B Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;971250
+Campur;;Kost Crystal Guest House Tipe A Sukolilo Surabaya;Sukolilo;Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2500000
+Putra;;Kost Ferkyta Tipe A Wonokromo Surabaya;Wonokromo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Putra;;Kost Ferkyta Tipe B Wonokromo Surabaya;Wonokromo;Tanpa deposit (sewa harian) ·Tidak bisa DP (sewa harian) ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1000000
+Putra;;Kost Pak Ran Sukolilo Surabaya;Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;500000
+Campur;; Kost Exclusive Tenggilis Timur  Tipe B Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2400000
+Campur;;Kost Bing Cen Gubeng Surabaya;Gubeng;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;850000
+Putri;;Kost Seger Hardiman Sukolilo Surabaya;Sukolilo;WiFi ·Kasur ;;;750000
+Putri;; Kost Herman Tipe H Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1250000
+Campur;;Kost Exclusive Tenggilis Timur Tipe A Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1800000
+Putri;;Kost Semolowaru Timur Gg XI Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;950000
+Putra;;Kost Raya Tenggilis Mejoyo AI Rungkut Surabaya;Rungkut;WiFi ·AC ·Kasur ·Akses 24 Jam ;;;1100000
+Campur;;Kost 3M Tipe Executive Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Putri;;Kost Nita Wonokromo Surabaya;Kecamatan Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Campur;;Kost Dekat UBAYA Kalirungkut Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ;;;1500000
+Putri;;Kost Amarilis Wonokromo Surabaya;Kecamatan Wonokromo;WiFi ·Kloset Duduk ·Kasur ;;;1200000
+Putri;;Kost Oma I Tipe 2 Wonocolo Surabaya;Kecamatan Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1350000
+Putri;;Kost Semolowaru Executive Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ;;;750000
+Putra;;Kost Amanah Ngagel Wasana Tipe D Gubeng Surabaya;Gubeng;WiFi ·Kasur ·Akses 24 Jam ;;;750000
+Putri;;Kost Semolowaru Elok Tipe A Sukolilo Surabaya;Sukolilo;Kloset Duduk ·Kasur ·Akses 24 Jam ;;;850000
+Putra;;Kost Rms R9 Rungkut Surabaya;Rungkut;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1102200
+Putri;;Kost Pucang Jajar Tipe C Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost UBI IV 31 Wonokromo Surabaya;Wonokromo;Tidak bisa DP (sewa harian) ·K. Mandi Dalam ·WiFi ·Kasur ·Akses 24 Jam ;;;950000
+Putri;;Kost Manyar I Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1500000
+Putri;;Kost Maharani Semolowaru Tengah Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;900000
+Putri;;Kost Hosana Tipe A Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kasur ;;;1600000
+Campur;;Kost Bu Wati Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1300000
+Campur;;Kost Desta Tipe A Wonokromo Surabaya;Wonokromo;Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·Kasur ·Akses 24 Jam ;;;500000
+Campur;;Kost Graha Aashritha 1 Sukolilo Surabaya;Kecamatan Sukolilo;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·Tanpa deposit (sewa harian) ·K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2750000
+Putri;;Kost Klampis I Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1000000
+Campur;;Kost New Kosakata Executive Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kasur ;;;1600000
+Putra;;Kost Pro Solusi Tipe B Wonokromo Surabaya;Kecamatan Wonokromo;Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;600000
+Campur;;Kost Ngagel Tama 5153 Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2100000
+Campur;;Kost Manyar Indah Raya Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1700000
+Putra;;Kost D Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;Kasur ·Akses 24 Jam ;;;660000
+Putri;;Kost B9 Tipe A Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;WiFi ·Kasur ;;;700000
+Putra;;Kost Sidosermo Jemursari Prapen Margorejo Marina Margorejo Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1600000
+Campur;;Kost Classy Sidosermo Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1400000
+Putri;;Kost Eko Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kasur ;;;550000
+Putra;;Kost Play Ubaya Rungkut Surabaya;Rungkut;AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1350000
+Putri;;Kost Putri 16  Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Putri;;Kost Klapa Exclusive Manyar Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2800000
+Putra;Sisa 3 kamar;Kost Murah Meriah Tipe 1 Wonokromo Surabaya;Wonokromo;WiFi ·Kasur ·Akses 24 Jam ;;;600000
+Putri;Sisa 1 kamar;Kost Talia Tipe C Gubeng Surabaya;Gubeng;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;825000
+Putra;Sisa 3 kamar;Kost JS 12 Wonokromo Surabaya;Wonokromo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;550000
+Campur;Sisa 1 kamar;Kost Exclusive Nirwana Rungkut Surabaya;Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;4000000
+Putri;Sisa 2 kamar;Kost Semolowaru Selatan VII Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;580000
+Campur;;Kost Rumah Tangga Cak Mul Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;Pasutri wajib membawa surat nikah (sewa harian) ·K. Mandi Dalam ;;;450000
+Putri;;Kost Rungkut Mejoyo Utara I Rungkut Surabaya;Rungkut;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1000000
+Campur;Sisa 2 kamar;Kost Holistay 1 Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1800000
+Campur;;Kost Jalan Margorejo Tangsi Dekat RSAL Ayani Wonocolo Surabaya;Kecamatan Wonocolo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Campur;;Kost Bebas Reynaldi Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2000000
+Putri;;Kost Bloominghome 2 Executive Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2000000
+Putri;;Kost Classy Type BA2 Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2750000
+Campur;;Kost Wira Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1900000
+Putri;;Kost Classy Type BB 2 Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2700000
+Putri;;Kost Classy Tipe D1 Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2750000
+Campur;;Kost Barat Gubeng Surabaya;Gubeng;K. Mandi Dalam ·AC ·Kasur ·Akses 24 Jam ;;;1700000
+Campur;;Kost Timur Gubeng Surabaya;Gubeng;K. Mandi Dalam ·AC ·Kloset Duduk ·Akses 24 Jam ;;;1300000
+Putri;;Kost Putri Lily 1 Tipe B Gubeng Surabaya;Gubeng;K. Mandi Dalam ·Kloset Duduk ·Kasur ;;;600000
+Campur;;Kost Utara Gubeng Surabaya;Kecamatan Gubeng;AC ·Kasur ;;;1300000
+Putri;;Kost Putri Lily 1 Tipe A Gubeng Surabaya;Gubeng;Kloset Duduk ·Kasur ;;;600000
+Putri;;Kost Bersih Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;625000
+Putri;;Kost Classy Type BA 1 Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2775000
+Campur;;Kost Bu Yana VVIP 2 Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1975000
+Putri;;Kost Dekat ITS Surabaya Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1300000
+Putri;;Kost Lily Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;900000
+Putri;;Kost Semolowaru Praja Tipe Reg Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kasur ;;;900000
+Campur;;Kost Executive Tipe A Wonocolo Surabaya;Wonocolo;AC ·Kloset Duduk ·Kasur ;;;1000000
+Putra;;Kost Bu Eti 1 Tipe A Raya Tenggilis Surabaya;Rungkut;AC ·Kloset Duduk ·Kasur ;;;900000
+Putra;;Kost Bu Eti 1 Tipe B Raya Tenggilis Surabaya;Rungkut;AC ·Kloset Duduk ·Kasur ;;;900000
+Campur;;Kost Royal Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Campur;;Kost Prapen Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putri;;Kost Pelangi Tenggilis Tipe Ac Rungkut Surabaya;Kecamatan Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Pelangi  Tipe B Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1265000
+Putri;;Kost Pelangi Tenggilis Tipe A1 Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Pelangi Tipe D Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1240000
+Putri;;Kost Pelangi Rungkut Surabaya;Rungkut;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;890000
+Putri;;Kost Pelangi Tipe C Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1240000
+Campur;;Kost Keluarga Rungkut Surabaya;Kecamatan Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;3000000
+Putri;;Kost Kampus Ubaya Tipe B Rungkut Surabaya;Kecamatan Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;3000000
+Putri;;Kost Kampus Ubaya Tipe A Rungkut Surabaya;Kecamatan Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1240000
+Putri;;Kost Ibu Sofi Rungkut Surabaya;Rungkut;WiFi ·Kloset Duduk ·Kasur ;;;800000
+Putri;;Kost Semolowaru Praja Tipe VIP Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kasur ;;;1400000
+Putri;;Kost Semolowaru Praja Tipe Reg AC Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kasur ;;;1200000
+Putri;;Kost Pelangi Tipe E Rungkut Surabaya;Kecamatan Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1650000
+Putri;;Kost Pelangi  Tipe A Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Putri;;Kost Ibu Eti 3 Rungkut Surabaya;Kecamatan Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1200000
+Campur;;Kost Wira Gubeng 2 Gubeng Surabaya;Gubeng;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1800000
+Putra;;Kost Berkah Af Standart Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Tanpa deposit (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;800000
+Putra;;Kost Yuk I Tipe Biasa Gubeng Surabaya;Gubeng;Check-out maks. pukul 12:00 (sewa harian) ·Tidak bisa DP (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1000000
+Campur;;Kost Eksklusif Ngagel Tipe B Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ;;;1750000
+Putri;;Kost Fanny Bratang Wonokromo Surabaya;Wonokromo;Kasur ;;;525000
+Campur;;Kost Abimanyu PDK Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Putri;;Kost Bedul Merisi Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·Kasur ;;;750000
+Putri;;Kost Cozy  Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1650000
+Putri;;Kost House of Sasha Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;900000
+Putri;;Kost Sidosermo Indah II 15 Wonocolo Surabaya;Kecamatan Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putra;;Kost Dinda Gubeng Surabaya;Gubeng;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1750000
+Putra;;Kost Amanah Ngagel Wasana Tipe B Gubeng Surabaya;Gubeng;Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putra;;Kost Mutiara 1 Tipe A Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;360000
+Putri;;Kost Putri Bendul Merisi Selatan III  Tipe D Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·Kasur ;;;850000
+Putra;;Kost Dini Ernawati Tipe AC Gubeng Surabaya;Kecamatan Gubeng;Tidak bisa DP (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Zahrifah Tipe A Wonokromo Surabaya;Kecamatan Wonokromo;Harga termasuk listrik (sewa harian) ·WiFi ·Kasur ·Akses 24 Jam ;;;700000
+Campur;;Kost Berkat 2 Single Wonocolo Surabaya;Wonocolo;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost Oemahq Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·Kasur ·Akses 24 Jam ;;;850000
+Putri;;Kost Muslimah Gapura Sukolilo Surabaya;Kecamatan Sukolilo;Harga termasuk listrik (sewa harian) ·Kasur ;;;600000
+Putra;;Kost Mi Casa Tipe B Wonokromo Surabaya;Kecamatan Wonokromo;WiFi ·Kasur ·Akses 24 Jam ;;;700000
+Putra;;Kost 89 Tipe A Wonocolo Surabaya;Kecamatan Wonocolo;Kasur ·Akses 24 Jam ;;;500000
+Putri;;Kost Karyawati Mahasiswi Sukolilo Surabaya;Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;850000
+Putri;;Kost Imannuel Pucang Anom Gubeng Surabaya;Gubeng;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;950000
+Putri;;Kost AG 21  Tipe Standart B Rungkut Surabaya;Rungkut;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;925000
+Putri;;Kost Anindya Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kasur ;;;1000000
+Putra;;Kost Kanya Gubeng Kertajaya Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1750000
+Putri;;Kost KDS Tipe B Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1650000
+Putri;;Kost KDS Tipe A Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2100000
+Campur;;Kost Panjang Jiwo 1 Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;Pasutri wajib membawa surat nikah (sewa harian) ·K. Mandi Dalam ·Akses 24 Jam ;;;900000
+Putri;;Kost Ubaya Ngagel Tipe B Gubeng Surabaya;Gubeng;AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1250000
+Campur;;Kost VIP Mewah Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·AC ·Kasur ;;;950000
+Campur;;Kost VIP Mewah Tipe B Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1350000
+Putra;;Kost Ucik Nginden Tengah Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1200000
+Campur;;Kost Pondok Sakinah Wonokromo Surabaya;Kecamatan Wonokromo;K. Mandi Dalam ·WiFi ·Kasur ·Akses 24 Jam ;;;1315000
+Putri;;Kost Djunaedi Adwidjaja 1 Tipe L16 Rungkut Surabaya;Kecamatan Rungkut;Tidak bisa DP (sewa harian) ·K. Mandi Dalam ·Kloset Duduk ·Kasur ;;;800000
+Putra;;Kost Semolowaru Tengah Sukolilo Surabaya;Sukolilo;Kasur ·Akses 24 Jam ;;;500000
+Putri;;Kost Bu Suci Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;Maksimal 2 orang (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1050000
+Campur;;Kost Ekslusif Manyar Rejo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1800000
+Campur;;Kost Abimanyu PDK Tipe B Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1700000
+Putra;;Kost  Bu Sulimah Sukolilo Surabaya;Kecamatan Sukolilo;Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·Kasur ;;;400000
+Putri;;Kost Mommy ILUD Tipe A Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;700000
+Putri;;Kost Bu Yuyun Tipe B Wonocolo Surabaya;Kecamatan Wonocolo;WiFi ·AC ·Kasur ·Akses 24 Jam ;;;1400000
+Campur;;Kost Griya Utama Tipe Family Sukolilo Surabaya ;Kecamatan Sukolilo;Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Akses 24 Jam ;;;1125000
+Putri;;Kost Ibam Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;750000
+Putra;;Kost Brino I Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putri;;Kost Amanah Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putra;;Kost Bapak Harry Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1600000
+Putri;;Kost Mitra Jaya Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kasur ;;;500000
+Putri;;Kost Pondok Nirwana Merr Mom Reni Double Bed Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;3200000
+Putra;;Kost Omah Wonokromo Surabaya;Wonokromo;WiFi ·AC ·Kasur ·Akses 24 Jam ;;;700000
+Putri;;Kost Jaya Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;800000
+Putri;;Kost Bendul Merisi Permai Eksklusif Wonocolo Surabaya;Kecamatan Wonocolo;Harga termasuk listrik (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost 129 Tipe VIP Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putra;;Kost Fuady Wonokromo Surabaya;Kecamatan Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1350000
+Campur;;Kost NJT51 Non AC Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Putri;;Kost Semolowaru Tengah Tipe Vip Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost Gaia 2 Rungkut Surabaya;Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1499999
+Putra;;Kost  Bu Imam Mejoyo Rungkut Surabaya;Rungkut;Harga termasuk listrik (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;700000
+Putra;;Kost Elite Nginden Tengah Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1200000
+Campur;;Kost 105 Merr Tipe B Rungkut Surabaya;Rungkut;Kasur ·Akses 24 Jam ;;;500000
+Campur;;Kost 105 Merr Tipe A Rungkut Surabaya;Rungkut;Kasur ·Akses 24 Jam ;;;450000
+Campur;;Kost Hakare Bendul Wonocolo Surabaya;Wonocolo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1600000
+Campur;;Kost Ngagel Madya 68 Tipe C Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1800000
+Campur;;Kost 104 Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Katherine Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1150000
+Putri;;Kost Bu Inna Tipe B Gubeng Surabaya;Gubeng;Kasur ·Akses 24 Jam ;;;550000
+Putra;;Kost Eco Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;600000
+Putra;;Kost Ibrahim Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Akses 24 Jam ;;;1250000
+Putri;;Kost Puja Tipe A Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2250000
+Campur;;Kost Ibu Endang Bendul Wonocolo Surabaya;Wonocolo;Pasutri wajib membawa surat nikah (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;900000
+Campur;;Kost Bintang Anugrah Gubeng Surabaya;Kecamatan Gubeng;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Putri;;Kost Ubaya Ngagel Tipe A Gubeng Surabaya;Gubeng;Kloset Duduk ·Kasur ·Akses 24 Jam ;;;800000
+Putri;;Kost Bu Inna Gubeng Surabaya;Gubeng;WiFi ·Kloset Duduk ·Kasur ;;;550000
+Putri;;Kost Eksklusif Ngagel Tipe A Gubeng Surabaya;Gubeng;WiFi ·Kloset Duduk ·Kasur ;;;1700000
+Putri;;Kost Muslimah Marina Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1500000
+Putri;;Kost Salma Aqilla Tipe A1 Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1000000
+Putri;;Kost Pucang Anom Tipe A Gubeng Surabaya;Gubeng;;;;680000
+Campur;;Kost InHouse Tipe A Gubeng Surabaya;Gubeng;Pasutri wajib membawa surat nikah (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2200000
+Putri;;Kost Herawati Tipe B Sukolilo Surabaya;Kecamatan Sukolilo;Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;700000
+Putri;;Kost Herawati Tipe A+ Sukolilo Surabaya;Kecamatan Sukolilo;Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;850000
+Campur;;Kost Denaya Gubeng Surabaya;Kecamatan Gubeng;AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2500000
+Campur;;Kost Cozy Executive Rungkut Surabayaa;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ;;;900000
+Putri;;Kost AG 21  Tipe Standart Non AC Rungkut Surabaya;Rungkut;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;800000
+Putra;;Kost Pratama Jaya 1 Mulyorejo Surabaya;Mulyorejo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1000000
+Putri;;Kost Lala Sukolilo Surabaya;Sukolilo;WiFi ·Kasur ;;;700000
+Putri;;Kost Hana 15 A Tipe B Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1200000
+Campur;;Kost The Red Colour Wall Panjangjiwo Rungkut Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·Kasur ·Akses 24 Jam ;;;1000000
+Putri;;Kost Griya Pucang Sewu Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Campur;;Kost Jl Nginden Intan Tipe Executive Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2000000
+Campur;;Kost Jl Nginden Intan Tipe Vip Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1900000
+Campur;;Kost Bu Yana VVIP 2 Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1975000
+Putri;;Kost Dekat ITS Surabaya Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1300000
+Putri;;Kost Lily Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;900000
+Putri;;Kost Semolowaru Praja Tipe Reg Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kasur ;;;900000
+Campur;;Kost Executive Tipe A Wonocolo Surabaya;Wonocolo;AC ·Kloset Duduk ·Kasur ;;;1000000
+Putra;;Kost Bu Eti 1 Tipe A Raya Tenggilis Surabaya;Rungkut;AC ·Kloset Duduk ·Kasur ;;;900000
+Putra;;Kost Bu Eti 1 Tipe B Raya Tenggilis Surabaya;Rungkut;AC ·Kloset Duduk ·Kasur ;;;900000
+Campur;;Kost Royal Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Campur;;Kost Prapen Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putri;;Kost Pelangi Tenggilis Tipe Ac Rungkut Surabaya;Kecamatan Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Pelangi  Tipe B Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1265000
+Putri;;Kost Pelangi Tenggilis Tipe A1 Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Pelangi Tipe D Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1240000
+Putri;;Kost Pelangi Rungkut Surabaya;Rungkut;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;890000
+Putri;;Kost Pelangi Tipe C Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1240000
+Campur;;Kost Keluarga Rungkut Surabaya;Kecamatan Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;3000000
+Putri;;Kost Kampus Ubaya Tipe B Rungkut Surabaya;Kecamatan Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;3000000
+Putri;;Kost Kampus Ubaya Tipe A Rungkut Surabaya;Kecamatan Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1240000
+Putri;;Kost Ibu Sofi Rungkut Surabaya;Rungkut;WiFi ·Kloset Duduk ·Kasur ;;;800000
+Putri;;Kost Semolowaru Praja Tipe VIP Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kasur ;;;1400000
+Putra;;Kost Bapak Harry Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1600000
+Putri;;Kost Mitra Jaya Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kasur ;;;500000
+Putri;;Kost Pondok Nirwana Merr Mom Reni Double Bed Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;3200000
+Putra;;Kost Omah Wonokromo Surabaya;Wonokromo;WiFi ·AC ·Kasur ·Akses 24 Jam ;;;700000
+Putri;;Kost Jaya Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;800000
+Putri;;Kost Bendul Merisi Permai Eksklusif Wonocolo Surabaya;Kecamatan Wonocolo;Harga termasuk listrik (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost 129 Tipe VIP Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putra;;Kost Fuady Wonokromo Surabaya;Kecamatan Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1350000
+Campur;;Kost NJT51 Non AC Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Putri;;Kost Semolowaru Tengah Tipe Vip Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost Gaia 2 Rungkut Surabaya;Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1499999
+Putra;;Kost  Bu Imam Mejoyo Rungkut Surabaya;Rungkut;Harga termasuk listrik (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;700000
+Putra;;Kost Elite Nginden Tengah Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1200000
+Campur;;Kost 105 Merr Tipe B Rungkut Surabaya;Rungkut;Kasur ·Akses 24 Jam ;;;500000
+Campur;;Kost 105 Merr Tipe A Rungkut Surabaya;Rungkut;Kasur ·Akses 24 Jam ;;;450000
+Campur;;Kost Hakare Bendul Wonocolo Surabaya;Wonocolo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1600000
+Campur;;Kost Ngagel Madya 68 Tipe C Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1800000
+Campur;;Kost 104 Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Katherine Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1150000
+Putri;;Kost Bu Inna Tipe B Gubeng Surabaya;Gubeng;Kasur ·Akses 24 Jam ;;;550000
+Putri;;Kost KDS Tipe A Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2100000
+Campur;;Kost Panjang Jiwo 1 Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;Pasutri wajib membawa surat nikah (sewa harian) ·K. Mandi Dalam ·Akses 24 Jam ;;;900000
+Putri;;Kost Ubaya Ngagel Tipe B Gubeng Surabaya;Gubeng;AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1250000
+Campur;;Kost VIP Mewah Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·AC ·Kasur ;;;950000
+Campur;;Kost VIP Mewah Tipe B Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1350000
+Putra;;Kost Ucik Nginden Tengah Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1200000
+Campur;;Kost Pondok Sakinah Wonokromo Surabaya;Kecamatan Wonokromo;K. Mandi Dalam ·WiFi ·Kasur ·Akses 24 Jam ;;;1315000
+Putri;;Kost Djunaedi Adwidjaja 1 Tipe L16 Rungkut Surabaya;Kecamatan Rungkut;Tidak bisa DP (sewa harian) ·K. Mandi Dalam ·Kloset Duduk ·Kasur ;;;800000
+Putra;;Kost Semolowaru Tengah Sukolilo Surabaya;Sukolilo;Kasur ·Akses 24 Jam ;;;500000
+Putri;;Kost Bu Suci Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;Maksimal 2 orang (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1050000
+Campur;;Kost Ekslusif Manyar Rejo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1800000
+Campur;;Kost Abimanyu PDK Tipe B Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1700000
+Putra;;Kost  Bu Sulimah Sukolilo Surabaya;Kecamatan Sukolilo;Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·Kasur ;;;400000
+Putri;;Kost Mommy ILUD Tipe A Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;700000
+Putri;;Kost Bu Yuyun Tipe B Wonocolo Surabaya;Kecamatan Wonocolo;WiFi ·AC ·Kasur ·Akses 24 Jam ;;;1400000
+Campur;;Kost Griya Utama Tipe Family Sukolilo Surabaya ;Kecamatan Sukolilo;Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Akses 24 Jam ;;;1125000
+Putri;;Kost Ibam Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;750000
+Putra;;Kost Brino I Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putri;;Kost Amanah Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putra;;Kost Bapak Harry Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1600000
+Putri;;Kost Amarilis Wonokromo Surabaya;Kecamatan Wonokromo;WiFi ·Kloset Duduk ·Kasur ;;;1200000
+Putri;;Kost Oma I Tipe 2 Wonocolo Surabaya;Kecamatan Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1350000
+Putri;;Kost Semolowaru Executive Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ;;;750000
+Putra;;Kost Amanah Ngagel Wasana Tipe D Gubeng Surabaya;Gubeng;WiFi ·Kasur ·Akses 24 Jam ;;;750000
+Putri;;Kost Semolowaru Elok Tipe A Sukolilo Surabaya;Sukolilo;Kloset Duduk ·Kasur ·Akses 24 Jam ;;;850000
+Putra;;Kost Rms R9 Rungkut Surabaya;Rungkut;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1102200
+Putri;;Kost Pucang Jajar Tipe C Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost UBI IV 31 Wonokromo Surabaya;Wonokromo;Tidak bisa DP (sewa harian) ·K. Mandi Dalam ·WiFi ·Kasur ·Akses 24 Jam ;;;950000
+Putri;;Kost Manyar I Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1500000
+Putri;;Kost Maharani Semolowaru Tengah Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;900000
+Putri;;Kost Hosana Tipe A Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kasur ;;;1600000
+Campur;;Kost Bu Wati Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1300000
+Campur;;Kost Desta Tipe A Wonokromo Surabaya;Wonokromo;Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·Kasur ·Akses 24 Jam ;;;500000
+Campur;;Kost Graha Aashritha 1 Sukolilo Surabaya;Kecamatan Sukolilo;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·Tanpa deposit (sewa harian) ·K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2750000
+Putri;;Kost Klampis I Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1000000
+Campur;;Kost New Kosakata Executive Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kasur ;;;1600000
+Putra;;Kost Pro Solusi Tipe B Wonokromo Surabaya;Kecamatan Wonokromo;Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;600000
+Campur;;Kost Ngagel Tama 5153 Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;2100000
+Campur;;Kost Manyar Indah Raya Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1700000
+Putra;;Kost D Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;Kasur ·Akses 24 Jam ;;;660000
+Putri;;Kost Pelangi Tipe E Rungkut Surabaya;Kecamatan Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1650000
+Putri;;Kost Pelangi  Tipe A Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Putri;;Kost Ibu Eti 3 Rungkut Surabaya;Kecamatan Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1200000
+Campur;;Kost Wira Gubeng 2 Gubeng Surabaya;Gubeng;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1800000
+Putra;;Kost Berkah Af Standart Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Tanpa deposit (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;800000
+Putra;;Kost Yuk I Tipe Biasa Gubeng Surabaya;Gubeng;Check-out maks. pukul 12:00 (sewa harian) ·Tidak bisa DP (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1000000
+Campur;;Kost Eksklusif Ngagel Tipe B Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ;;;1750000
+Putri;;Kost Fanny Bratang Wonokromo Surabaya;Wonokromo;Kasur ;;;525000
+Campur;;Kost Abimanyu PDK Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Putri;;Kost Bedul Merisi Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·Kasur ;;;750000
+Putri;;Kost Cozy  Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1650000
+Putri;;Kost House of Sasha Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;900000
+Putri;;Kost Sidosermo Indah II 15 Wonocolo Surabaya;Kecamatan Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putra;;Kost Dinda Gubeng Surabaya;Gubeng;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1750000
+Putra;;Kost Amanah Ngagel Wasana Tipe B Gubeng Surabaya;Gubeng;Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putra;;Kost Mutiara 1 Tipe A Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;360000
+Putri;;Kost Putri Bendul Merisi Selatan III  Tipe D Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·Kasur ;;;850000
+Putra;;Kost Dini Ernawati Tipe AC Gubeng Surabaya;Kecamatan Gubeng;Tidak bisa DP (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Zahrifah Tipe A Wonokromo Surabaya;Kecamatan Wonokromo;Harga termasuk listrik (sewa harian) ·WiFi ·Kasur ·Akses 24 Jam ;;;700000
+Campur;;Kost Berkat 2 Single Wonocolo Surabaya;Wonocolo;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putra;;Kost Fuady Wonokromo Surabaya;Kecamatan Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1350000
+Campur;;Kost NJT51 Non AC Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Putri;;Kost Semolowaru Tengah Tipe Vip Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost Gaia 2 Rungkut Surabaya;Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1499999
+Putra;;Kost  Bu Imam Mejoyo Rungkut Surabaya;Rungkut;Harga termasuk listrik (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;700000
+Putra;;Kost Elite Nginden Tengah Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1200000
+Campur;;Kost 105 Merr Tipe B Rungkut Surabaya;Rungkut;Kasur ·Akses 24 Jam ;;;500000
+Campur;;Kost 105 Merr Tipe A Rungkut Surabaya;Rungkut;Kasur ·Akses 24 Jam ;;;450000
+Campur;;Kost Hakare Bendul Wonocolo Surabaya;Wonocolo;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1600000
+Campur;;Kost Ngagel Madya 68 Tipe C Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1800000
+Campur;;Kost 104 Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Katherine Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1150000
+Putri;;Kost Bu Inna Tipe B Gubeng Surabaya;Gubeng;Kasur ·Akses 24 Jam ;;;550000
+Putra;;Kost Eco Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;600000
+Putra;;Kost Ibrahim Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Akses 24 Jam ;;;1250000
+Putri;;Kost Puja Tipe A Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2250000
+Campur;;Kost Ibu Endang Bendul Wonocolo Surabaya;Wonocolo;Pasutri wajib membawa surat nikah (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;900000
+Campur;;Kost Bintang Anugrah Gubeng Surabaya;Kecamatan Gubeng;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Putri;;Kost Ubaya Ngagel Tipe A Gubeng Surabaya;Gubeng;Kloset Duduk ·Kasur ·Akses 24 Jam ;;;800000
+Putri;;Kost Bu Inna Gubeng Surabaya;Gubeng;WiFi ·Kloset Duduk ·Kasur ;;;550000
+Putri;;Kost Mommy ILUD Tipe A Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;700000
+Putri;;Kost Bu Yuyun Tipe B Wonocolo Surabaya;Kecamatan Wonocolo;WiFi ·AC ·Kasur ·Akses 24 Jam ;;;1400000
+Campur;;Kost Griya Utama Tipe Family Sukolilo Surabaya ;Kecamatan Sukolilo;Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Akses 24 Jam ;;;1125000
+Putri;;Kost Ibam Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;750000
+Putra;;Kost Brino I Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putri;;Kost Amanah Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putra;;Kost Bapak Harry Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1600000
+Putri;;Kost Mitra Jaya Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kasur ;;;500000
+Putri;;Kost Pondok Nirwana Merr Mom Reni Double Bed Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;3200000
+Putra;;Kost Omah Wonokromo Surabaya;Wonokromo;WiFi ·AC ·Kasur ·Akses 24 Jam ;;;700000
+Putri;;Kost Jaya Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;800000
+Putri;;Kost Bendul Merisi Permai Eksklusif Wonocolo Surabaya;Kecamatan Wonocolo;Harga termasuk listrik (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost 129 Tipe VIP Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putra;;Kost Fuady Wonokromo Surabaya;Kecamatan Wonokromo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1350000
+Campur;;Kost NJT51 Non AC Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Putri;;Kost Semolowaru Tengah Tipe Vip Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost Gaia 2 Rungkut Surabaya;Rungkut;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1499999
+Putra;;Kost  Bu Imam Mejoyo Rungkut Surabaya;Rungkut;Harga termasuk listrik (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;700000
+Putra;;Kost Elite Nginden Tengah Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1200000
+Campur;;Kost 105 Merr Tipe B Rungkut Surabaya;Rungkut;Kasur ·Akses 24 Jam ;;;500000
+Putra;;Kost Amanah Ngagel Wasana Tipe B Gubeng Surabaya;Gubeng;Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putra;;Kost Mutiara 1 Tipe A Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;360000
+Putri;;Kost Putri Bendul Merisi Selatan III  Tipe D Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·Kasur ;;;850000
+Putra;;Kost Dini Ernawati Tipe AC Gubeng Surabaya;Kecamatan Gubeng;Tidak bisa DP (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Zahrifah Tipe A Wonokromo Surabaya;Kecamatan Wonokromo;Harga termasuk listrik (sewa harian) ·WiFi ·Kasur ·Akses 24 Jam ;;;700000
+Campur;;Kost Berkat 2 Single Wonocolo Surabaya;Wonocolo;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost Oemahq Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·Kasur ·Akses 24 Jam ;;;850000
+Putri;;Kost Muslimah Gapura Sukolilo Surabaya;Kecamatan Sukolilo;Harga termasuk listrik (sewa harian) ·Kasur ;;;600000
+Putra;;Kost Mi Casa Tipe B Wonokromo Surabaya;Kecamatan Wonokromo;WiFi ·Kasur ·Akses 24 Jam ;;;700000
+Putra;;Kost 89 Tipe A Wonocolo Surabaya;Kecamatan Wonocolo;Kasur ·Akses 24 Jam ;;;500000
+Putri;;Kost Karyawati Mahasiswi Sukolilo Surabaya;Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;850000
+Putri;;Kost Imannuel Pucang Anom Gubeng Surabaya;Gubeng;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;950000
+Putri;;Kost AG 21  Tipe Standart B Rungkut Surabaya;Rungkut;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;925000
+Putri;;Kost Anindya Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kasur ;;;1000000
+Putra;;Kost Kanya Gubeng Kertajaya Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1750000
+Putri;;Kost KDS Tipe B Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1650000
+Putri;;Kost KDS Tipe A Sukolilo Surabaya;Kecamatan Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2100000
+Campur;;Kost Panjang Jiwo 1 Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;Pasutri wajib membawa surat nikah (sewa harian) ·K. Mandi Dalam ·Akses 24 Jam ;;;900000
+Putri;;Kost Ubaya Ngagel Tipe B Gubeng Surabaya;Gubeng;AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1250000
+Campur;;Kost VIP Mewah Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·AC ·Kasur ;;;950000
+Putri;;Kost Classy Tipe D1 Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2750000
+Campur;;Kost Barat Gubeng Surabaya;Gubeng;K. Mandi Dalam ·AC ·Kasur ·Akses 24 Jam ;;;1700000
+Campur;;Kost Timur Gubeng Surabaya;Gubeng;K. Mandi Dalam ·AC ·Kloset Duduk ·Akses 24 Jam ;;;1300000
+Putri;;Kost Putri Lily 1 Tipe B Gubeng Surabaya;Gubeng;K. Mandi Dalam ·Kloset Duduk ·Kasur ;;;600000
+Campur;;Kost Utara Gubeng Surabaya;Kecamatan Gubeng;AC ·Kasur ;;;1300000
+Putri;;Kost Putri Lily 1 Tipe A Gubeng Surabaya;Gubeng;Kloset Duduk ·Kasur ;;;600000
+Putri;;Kost Bersih Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·Kasur ·Akses 24 Jam ;;;625000
+Putri;;Kost Classy Type BA 1 Tenggilis Mejoyo Surabaya;Tenggilis Mejoyo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;2775000
+Campur;;Kost Bu Yana VVIP 2 Gubeng Surabaya;Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1975000
+Putri;;Kost Dekat ITS Surabaya Sukolilo Surabaya;Kecamatan Sukolilo;WiFi ·AC ·Kloset Duduk ·Kasur ;;;1300000
+Putri;;Kost Lily Tipe A Sukolilo Surabaya;Sukolilo;WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;900000
+Putri;;Kost Semolowaru Praja Tipe Reg Sukolilo Surabaya;Sukolilo;Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·Kasur ;;;900000
+Campur;;Kost Executive Tipe A Wonocolo Surabaya;Wonocolo;AC ·Kloset Duduk ·Kasur ;;;1000000
+Putra;;Kost Bu Eti 1 Tipe A Raya Tenggilis Surabaya;Rungkut;AC ·Kloset Duduk ·Kasur ;;;900000
+Putra;;Kost Bu Eti 1 Tipe B Raya Tenggilis Surabaya;Rungkut;AC ·Kloset Duduk ·Kasur ;;;900000
+Campur;;Kost Royal Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1100000
+Campur;;Kost Prapen Tenggilis Mejoyo Surabaya;Kecamatan Tenggilis Mejoyo;AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putri;;Kost Pelangi Tenggilis Tipe Ac Rungkut Surabaya;Kecamatan Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Pelangi  Tipe B Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1265000
+Putri;;Kost Pelangi Tenggilis Tipe A1 Rungkut Surabaya;Rungkut;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Campur;;Kost Wira Gubeng 2 Gubeng Surabaya;Gubeng;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1800000
+Putra;;Kost Berkah Af Standart Sukolilo Surabaya;Sukolilo;Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Tanpa deposit (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;800000
+Putra;;Kost Yuk I Tipe Biasa Gubeng Surabaya;Gubeng;Check-out maks. pukul 12:00 (sewa harian) ·Tidak bisa DP (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1000000
+Campur;;Kost Eksklusif Ngagel Tipe B Wonokromo Surabaya;Wonokromo;K. Mandi Dalam ·AC ·Kloset Duduk ·Kasur ;;;1750000
+Putri;;Kost Fanny Bratang Wonokromo Surabaya;Wonokromo;Kasur ;;;525000
+Campur;;Kost Abimanyu PDK Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1500000
+Putri;;Kost Bedul Merisi Tipe A Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·WiFi ·Kasur ;;;750000
+Putri;;Kost Cozy  Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1650000
+Putri;;Kost House of Sasha Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;900000
+Putri;;Kost Sidosermo Indah II 15 Wonocolo Surabaya;Kecamatan Wonocolo;K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putra;;Kost Dinda Gubeng Surabaya;Gubeng;WiFi ·AC ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1750000
+Putra;;Kost Amanah Ngagel Wasana Tipe B Gubeng Surabaya;Gubeng;Kloset Duduk ·Kasur ·Akses 24 Jam ;;;650000
+Putra;;Kost Mutiara 1 Tipe A Gubeng Surabaya;Kecamatan Gubeng;K. Mandi Dalam ·Kasur ·Akses 24 Jam ;;;360000
+Putri;;Kost Putri Bendul Merisi Selatan III  Tipe D Wonocolo Surabaya;Wonocolo;K. Mandi Dalam ·Kasur ;;;850000
+Putra;;Kost Dini Ernawati Tipe AC Gubeng Surabaya;Kecamatan Gubeng;Tidak bisa DP (sewa harian) ·WiFi ·Kloset Duduk ·Kasur ·Akses 24 Jam ;;;1300000
+Putri;;Kost Zahrifah Tipe A Wonokromo Surabaya;Kecamatan Wonokromo;Harga termasuk listrik (sewa harian) ·WiFi ·Kasur ·Akses 24 Jam ;;;700000
+Campur;;Kost Berkat 2 Single Wonocolo Surabaya;Wonocolo;Check-in pukul 14:00-21:00 (sewa harian) ·Check-out maks. pukul 12:00 (sewa harian) ·Harga termasuk listrik (sewa harian) ·Maksimal 2 orang (sewa harian) ·Pasutri wajib membawa surat nikah (sewa harian) ·Wajib lampirkan KTP saat check-in (sewa harian) ·K. Mandi Dalam ·WiFi ·AC ·Kloset Duduk ·Kasur ;;;1600000
+Putri;;Kost Oemahq Sukolilo Surabaya;Sukolilo;K. Mandi Dalam ·WiFi ·Kasur ·Akses 24 Jam ;;;850000
+Putri;;Kost Muslimah Gapura Sukolilo Surabaya;Kecamatan Sukolilo;Harga termasuk listrik (sewa harian) ·Kasur ;;;600000
+Putra;;Kost Mi Casa Tipe B Wonokromo Surabaya;Kecamatan Wonokromo;WiFi ·Kasur ·Akses 24 Jam ;;;700000
